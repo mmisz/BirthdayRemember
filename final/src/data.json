@@ -1,0 +1,32 @@
+[
+        {
+            "id": 1,
+            "name": "Marta Janik",
+            "birthday": "12.10.1995",
+            "image": "/people_images/k1.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Klaudia Dziubas",
+            "birthday": "03.02.1992",
+            "image": "/people_images/k2.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Jan Mały",
+            "birthday": "02.04.1990",
+            "image": "/people_images/m1.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Szymon Walas",
+            "birthday": "09.06.1998",
+            "image": "/people_images/m2.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Renata Ogrodnik",
+            "birthday": "01.05.1991",
+            "image": "/people_images/k3.jpg"
+          }
+]
