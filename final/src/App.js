@@ -14,7 +14,6 @@ function App() {
 
   return (
     <main>
-      
       <section className='container'>
       <h1>Pamiętaj o mnie!</h1>
         <RangeReminder people={people} setFilteredPeople={setFilteredPeople} />

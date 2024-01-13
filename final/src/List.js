@@ -4,6 +4,7 @@ const List = ({ people }) => {
   console.log(people)
   return (
     <>
+    <h3>Lista urodzin</h3>
     <div id='list'>
     {people.map((person) => {
         const { id, name, birthday, image } = person;
